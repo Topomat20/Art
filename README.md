@@ -20,8 +20,8 @@ When the user opens the webpage they are presented with a pop up asking them if 
 ## Help
 
 ## Authors
-Kayla De La Cruz
-github user name: 
+* Kayla De La Cruz
+* Github user name: 
 ## Version History
 * 0.1
     * Initial Release
