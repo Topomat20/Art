@@ -23,8 +23,10 @@ When the user opens the webpage they are presented with a pop up asking them if 
 * Kayla De La Cruz
 * Github user name: 
 ## Version History
+https://topomat20.github.io/Game-RPS/
 * 0.1
     * Initial Release
 ## License
-
+None
 ## Acknowledgments
+* I got the img from "South Walton Flordia" webpage.
