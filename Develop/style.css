@@ -1,3 +1,15 @@
-body {
-    background-color: aqua;
+* {
+    margin: auto;
+}
+nav {
+    background-color: chartreuse;
+    padding: 20px;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 90px;
+    font-weight: bold;
+}
+
+section {
+    display: flex;
+    justify-content: center;
 }
